@@ -1,0 +1,19 @@
+{
+  "name": "zoom",
+  "version": "1.0.0",
+  "description": "NodeJs Zoom Cloen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SingingApple/zoom.git"
+  },
+  "author": "SingingApple",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SingingApple/zoom/issues"
+  },
+  "homepage": "https://github.com/SingingApple/zoom#readme"
+}
